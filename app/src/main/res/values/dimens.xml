@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default -->
+    <dimen name="default_font_size">16sp</dimen>
+
+    <!-- Log In Screen -->
+    <dimen name="log_in_button_margin_top">40dp</dimen>
+
+    <!-- Profile Screen -->
+    <dimen name="profile_image_size">150dp</dimen>
+    <dimen name="profile_image_margin_top">60dp</dimen>
+    <dimen name="start_shaking_button_margin_top">30dp</dimen>
+    <dimen name="start_shaking_button_drawable_padding">8dp</dimen>
+
+    <!-- Shaking Screen -->
+    <dimen name="shaking_counter_text_size">50sp</dimen>
+</resources>

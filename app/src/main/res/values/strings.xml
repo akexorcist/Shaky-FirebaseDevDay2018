@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shaky</string>
+    <string name="login">LOGIN</string>
+    <string name="start">START</string>
+</resources>
